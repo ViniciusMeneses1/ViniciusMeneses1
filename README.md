@@ -1,5 +1,4 @@
-<h1 align="center">Olá, meu nome é Vinicius</h1>
-<h3 align="center">Sou um desenvolvedor FullStack. Gosto de ser engenhoso e colocar ideias pessoais em prática.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
