@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Estou trabalhando em meu portfólio e projutos no Github.
+- 🔭 Estou trabalhando em meu portfólio e projetos no Github.
 
 - 🌱 Constantemente aprendendo sobre .Net, Java e outras tecnologias.
 
