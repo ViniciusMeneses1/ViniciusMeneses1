@@ -34,4 +34,3 @@
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/vinicius-silva1/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
