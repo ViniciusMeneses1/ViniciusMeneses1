@@ -1,4 +1,4 @@
-<h1> Olá < Developers/ >! Meu nome é Vinicius <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Olá! Meu nome é Vinicius <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
