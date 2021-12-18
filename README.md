@@ -10,7 +10,7 @@
 
 - 🔭 Estou trabalhando em meu portfólio e projetos no Github.
 
-- 🌱 Constantemente aprendendo sobre .Net, Java e outras tecnologias.
+- 🌱 Constantemente aprendendo sobre Java e outras tecnologias.
 
 - 👯 Sou ativo na DIO:  
  
