@@ -18,5 +18,6 @@
 
 
 <h2> Connect with me</h2>
-<a href = 'https://www.linkedin.com/in/vinicius-silva1/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.linkedin.com/in/vinicius-silva1/'> <img width = '32px' align= 'center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"/></a>
 <br>
