@@ -3,7 +3,7 @@
 <div size='20px'> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="" />
 
 - 🔭 Estou trabalhando em meu portfólio e projetos no Github.
 - 🌱 Atualmente estou aprendendo sobre Kotlin e Java.
