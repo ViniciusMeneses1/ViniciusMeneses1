@@ -1,7 +1,5 @@
-<h1> Olá! Meu nome é Vinicius <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1> Olá! Meu nome é Vinicius</h1>
 
-</p>
 <div size='20px'> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
