@@ -5,11 +5,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
 - 🔭 Estou trabalhando em meu portfólio e projetos no Github.
-
 - 🌱 Atualmente estou aprendendo sobre Kotlin e Java.
-
 - 👯 Meu perfil na DIO:  
  
 
