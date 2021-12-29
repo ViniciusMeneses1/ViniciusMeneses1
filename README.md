@@ -10,9 +10,9 @@
 
 - 🔭 Estou trabalhando em meu portfólio e projetos no Github.
 
-- 🌱 Constantemente aprendendo sobre Java e outras tecnologias.
+- 🌱 Atualmente estou aprendendo sobre Kotlin e Java.
 
-- 👯 Sou ativo na DIO:  
+- 👯 Meu perfil na DIO:  
  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
