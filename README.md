@@ -3,7 +3,7 @@
 <div size='20px'> Hi! My name is Vinicius. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://isometric.online/wp-content/uploads/2020/03/drone_delivery_svg.svg" />
+<img width="35%" align="right" alt="Github" src="https://isometric.online/wp-content/uploads/2020/03/drone_delivery_svg.svg" />
 
 - 🔭 Estou trabalhando em meu portfólio e projetos no Github.
 - 🌱 Atualmente estou aprendendo sobre Kotlin e Java.
