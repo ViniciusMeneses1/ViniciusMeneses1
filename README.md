@@ -6,7 +6,5 @@ Meu nome é Vinicius Meneses, tenho 25 anos, conheci a programação em 2023 e a
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,python)](https://skillicons.dev)
 
-Linguas:
-
 
 
