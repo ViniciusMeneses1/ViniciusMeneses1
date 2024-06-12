@@ -1,5 +1,3 @@
-<h1 align="center">Meu nome é Vinicius</h1>
-
 - 🔭 Atualmente estou trabalhando com DevOps
 
 - 🌱 Estou aprendendo **Go e Python**
