@@ -4,14 +4,12 @@
 ```diff
 Olá, meu Nome é Vinicius! 👩‍💻.
 
-@@I'm a software engineer@@
+@@I'm a DevOps engineer@@
 + Moro em São Paulo, Brazil 🇧🇷.
 - 26 Anos
 ! sometimes conf speaker, always shitposter
 # 📖 DevOps, Programming languages, functional
 ```
-
-#### 👉 *[anabastos.dev](https://anabastos.dev/)* 👈
 
 <Youre doing great>
 <Good things will come to you>
