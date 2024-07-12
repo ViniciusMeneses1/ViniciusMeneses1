@@ -1,5 +1,5 @@
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2puaWQ0Y2xoZWc4OXY5dXI1ZXJ2aHVueWN6aHRsaXJiZjhuamUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0XAoHQPmv4CQ/200.webp"/>
 
 ```diff
 Olá, meu Nome é Vinicius! 👩‍💻.
