@@ -5,7 +5,7 @@
 Olá, meu Nome é Vinicius! 👩‍💻.
 
 @@I'm a DevOps engineer@@
-+ Moro em São Paulo, Brazil 🇧🇷.
++ Moro em São Paulo, Brasil 🇧🇷.
 - 26 Anos
 ! sometimes conf speaker, always shitposter
 # 📖 DevOps, Programming languages, functional
