@@ -1,6 +1,3 @@
-
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2puaWQ0Y2xoZWc4OXY5dXI1ZXJ2aHVueWN6aHRsaXJiZjhuamUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0XAoHQPmv4CQ/200.webp"/>
-
 ```diff
 Olá, meu Nome é Vinicius! 👩‍💻.
 
