@@ -4,7 +4,7 @@ Olá, meu Nome é Vinicius! 👩‍💻.
 @@I'm a DevOps engineer@@
 + Moro em São Paulo, Brasil 🇧🇷.
 - 26 Anos
-# 📖 DevOps, Programming languages, functional
+# 📖 Programming languages, Python, Java, SQL, AWS
 ```
 
 <Youre doing great>
