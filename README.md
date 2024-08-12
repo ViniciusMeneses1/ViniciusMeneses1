@@ -1,7 +1,7 @@
 ```diff
 Olá, meu Nome é Vinicius! 👩‍💻.
 
-@@I'm a DevOps engineer@@
+@@Meu nome é Vinicius !@@
 + Moro em São Paulo, Brasil 🇧🇷.
 - 26 Anos
 # 📖 Programming languages, Python, Java, SQL, AWS
