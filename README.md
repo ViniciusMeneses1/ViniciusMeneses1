@@ -1,6 +1,6 @@
 ```diff
 @@Olá, meu nome é Vinicius! 👩‍💻.@@
-+ Moro em São Paulo, Brasil 🇧🇷.
++ São Paulo, Brasil 🇧🇷.
 - 26 Anos
 # 📖 Infosec, Python, Linux, AWS
 ```
