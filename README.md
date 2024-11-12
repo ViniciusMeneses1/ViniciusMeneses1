@@ -2,7 +2,7 @@
 @@Olá, meu nome é Vinicius! 👩‍💻.@@
 + Moro em São Paulo, Brasil 🇧🇷.
 - 26 Anos
-# 📖 Programming languages, Python, Java, SQL, AWS
+# 📖 Infosec, Python, Linux, AWS
 ```
 
 <Youre doing great>
