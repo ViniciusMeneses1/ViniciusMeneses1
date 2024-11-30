@@ -2,7 +2,7 @@
 @@Olá, meu nome é Vinicius! 👩‍💻.@@
 + São Paulo, Brasil 🇧🇷.
 - 26 Anos
-# 📖 Infosec, Linux, AWS
+# 📖 Infosec, Java, Linux, AWS
 ```
 
 <Youre doing great>
