@@ -2,7 +2,7 @@
 @@Olá, meu nome é Vinicius! 👩‍💻.@@
 + São Paulo, Brasil 🇧🇷.
 - IAM Engineer
-# 📖 Infosec, Java, Linux, AWS
+# 📖 Infosec, Linux, AWS, IAM, CLOUDIAM
 ```
 
 <Youre doing great>
