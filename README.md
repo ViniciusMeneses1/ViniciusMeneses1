@@ -1,8 +1,7 @@
 ```diff
 @@Olá, meu nome é Vinicius! 👩‍💻.@@
-+ São Paulo, Brasil 🇧🇷.
-- IAM 
-# 📖 Interrese em Infosec, Linux, AWS, IAM, PAM e Cloud
++ São Paulo, Brasil 🇧🇷. 
+# 📖 Estudando IAM/PAM
 ```
 
 <Youre doing great>
