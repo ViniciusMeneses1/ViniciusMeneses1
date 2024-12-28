@@ -1,7 +1,8 @@
 ```diff
 @@Olá, meu nome é Vinicius! 👩‍💻.@@
-+ São Paulo, Brasil 🇧🇷. 
-# 📖 Estudando IAM/PAM
++ São Paulo, Brasil 🇧🇷.
+- IAM
+# 📖 Interesse em Infosec/IAM
 ```
 
 <Youre doing great>
